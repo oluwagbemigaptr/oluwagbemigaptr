@@ -1,4 +1,6 @@
 # Hi there, my name is Oluwagbemiga Peter 👋
+Let's connect through:
+[LinkedIn](https://www.linkedin.com/in/peter-oluwagbemiga/) [Twitter](https://twitter.com/oluwagbemigaptr)
 ### I am a student, Data Analyst
 
 - 🌱 I’m currently learning Data Analytics 
