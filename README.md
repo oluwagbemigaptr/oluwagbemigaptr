@@ -1,4 +1,4 @@
-**Hi there, my name is Oluwagbemiga Peter** 👋
+**Hey there** 👋
 
 Let's connect through:
 
