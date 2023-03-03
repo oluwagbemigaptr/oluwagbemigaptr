@@ -1,3 +1,5 @@
+![Data Analyst](https://media.licdn.com/dms/image/D4D16AQG42IN1uuNqug/profile-displaybackgroundimage-shrink_350_1400/0/1677885098586?e=1683158400&v=beta&t=FC3kYmTmSQuj3wDvyoyZ117wWTEWt3-xi85SZGh9uqI)
+
 **Hey there** 👋
 
 Let's connect through:
