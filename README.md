@@ -10,7 +10,7 @@ Let's connect through:
 **About Me:**
 I am a student | Data Analyst
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Excel
 - 👯 I’m looking to collaborate with other Data Analyst 
 - ⚡ Fun fact: I love jogging, playing guitar and reading self-development books
 ---
