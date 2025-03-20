@@ -2,7 +2,16 @@
 
 I'm a **Junior Data Analyst** passionate about turning data into meaningful insights. I enjoy working with data to solve real-world problems and uncover hidden patterns. I'm also interested in the intersection of **sustainability** and **clean energy**, especially the role of hydrogen in transforming the global energy landscape.  
 
----
+
+
+## 💻 **Tech Stack**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
 
 ## 🌱 **What I'm Learning**
 - 📊 Data Cleaning and Visualization  
@@ -12,39 +21,16 @@ I'm a **Junior Data Analyst** passionate about turning data into meaningful insi
 - 🗄️ SQL for data querying  
 - 🌍 The potential of **hydrogen** as a clean cooking fuel  
 
----
 
 ## 💼 **Projects**
 - ✅ **[Sales Analysis Dashboard](#)** – Built a sales performance dashboard using Power BI to visualize trends and KPIs.  
 - ✅ **[Customer Segmentation](#)** – Used **Python** and KMeans clustering to identify customer groups for targeted marketing.  
 - ✅ **[Statistical Analysis with R](#)** – Conducted a regression analysis to identify factors influencing customer behavior using **R** (ggplot2 and dplyr).  
-- ✅ **[Clean Cooking with Hydrogen](#)** – Researching the environmental and health benefits of using hydrogen as a cooking fuel in developing countries.  
 
----
-
-## 🌍 **Other Interests**
-- 🎵 **Music Enthusiast** – Actively involved in organizing and participating in music workshops.  
-- 🌱 **Sustainability Advocate** – Exploring the potential of hydrogen to reduce household air pollution and promote clean energy.  
-- ✍️ **Content Creation** – Love writing about data, technology, and sustainable energy solutions.  
-- 🙏 **Faith and Gratitude** – Music and spirituality play a big role in my life.  
-
----
 
 ## 📫 **How to Reach Me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-oluwagbemiga)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwagbemigaptr@gmail.com)  
 
----
 
-## ⚡ **Fun Fact**
-*"Data is the new oil, but insight is the refinery."*  
-*Also, music and data have more in common than you’d think — both follow patterns and tell stories!*  
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwagbemigaptr&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwagbemigaptr&layout=compact&theme=radical)  
-
----
-
-⭐️ Feel free to explore my repositories and connect with me!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwagbemigaptr&show_icons=true&theme=radical) 
