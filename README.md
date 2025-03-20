@@ -3,7 +3,6 @@
 I'm a **Junior Data Analyst** passionate about turning data into meaningful insights. I enjoy working with data to solve real-world problems and uncover hidden patterns. I'm also interested in the intersection of **sustainability** and **clean energy**, especially the role of hydrogen in transforming the global energy landscape.  
 
 
-
 ## 💻 **Tech Stack**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
@@ -14,13 +13,10 @@ I'm a **Junior Data Analyst** passionate about turning data into meaningful insi
 
 
 ## 🌱 **What I'm Learning**
-- 📊 Data Cleaning and Visualization  
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- 🔵 **R** (ggplot2, dplyr, tidyr) for statistical analysis and data visualization 
-- 📈 Power BI and Tableau  
-- 🗄️ SQL for data querying  
-- 🌍 The potential of **hydrogen** as a clean cooking fuel  
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)  
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)  
+  
 
 ## 💼 **Projects**
 - ✅ **[Sales Analysis Dashboard](#)** – Built a sales performance dashboard using Power BI to visualize trends and KPIs.  
