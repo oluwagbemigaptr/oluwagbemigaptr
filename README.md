@@ -5,8 +5,8 @@ I'm a **Data Analyst** passionate about **data-driven decision-making** and **su
 
 ## 💡 **What I Do**  
 🔹 **Data Analytics** – Cleaning, processing, and visualizing data using **Power BI, R, and Excel.**  
-🔹 **Business Intelligence** – Developing interactive dashboards for insights and decision-making. 
-🔹 **Statistical & Computational Analysis** – Leveraging **R, Python, and MATLAB** for data modeling and simulations.
+🔹 **Business Intelligence** – Developing interactive dashboards for insights and decision-making.  
+🔹 **Statistical & Computational Analysis** – Leveraging **R, Python, and MATLAB** for data modeling and simulations.  
 🔹 **Sustainability** – Exploring **hydrogen as a clean energy source**, and **climate change** advocate through sustainable solutions.  
 🔹 **Design & Prototyping** – Applying **MATLAB** for engineering computations and simulations, while learning **SolidWorks** for design.   
 
@@ -16,7 +16,7 @@ I'm a **Data Analyst** passionate about **data-driven decision-making** and **su
 
 
 ## 🚀 **Currently Exploring**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)  ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)  ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white)  
 
 
 
