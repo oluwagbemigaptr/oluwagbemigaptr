@@ -1,6 +1,9 @@
 #  Hi, I'm Peter Oluwagbemiga👋
 
-I'm a data professional with  passionate about turning data into meaningful insights. I enjoy working with data to solve real-world problems and uncover hidden patterns. I'm also interested in the intersection of **sustainability** and **clean energy**, especially the role of hydrogen in transforming the global energy landscape.  
+🔭 I hold a Bachelor's degree in Mechanical Engineering from the Federal University of Technology, Minna, Nigeria.
+💬 Ask me about SQL, powerBI, MS Excel, SPSS and R
+🌱 I’m currently learning R programming
+👯 I’m looking to collaborate with other Data Analysts to solve real world problems using data.
 
 
 ## 💻 **Tech Stack**
