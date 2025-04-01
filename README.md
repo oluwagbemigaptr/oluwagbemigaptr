@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Peter Oluwagbemiga!
+#  Hi, I'm Peter Oluwagbemiga👋
 
-I'm a **Junior Data Analyst** passionate about turning data into meaningful insights. I enjoy working with data to solve real-world problems and uncover hidden patterns. I'm also interested in the intersection of **sustainability** and **clean energy**, especially the role of hydrogen in transforming the global energy landscape.  
+I'm a data professional with  passionate about turning data into meaningful insights. I enjoy working with data to solve real-world problems and uncover hidden patterns. I'm also interested in the intersection of **sustainability** and **clean energy**, especially the role of hydrogen in transforming the global energy landscape.  
 
 
 ## 💻 **Tech Stack**
