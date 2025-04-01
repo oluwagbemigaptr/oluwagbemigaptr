@@ -4,11 +4,11 @@ I'm a **Data Analyst** passionate about **data-driven decision-making** and **su
 
 
 ## 💡 **What I Do**  
-🔹 **Data Analytics** – Cleaning, processing, and visualizing data  
-🔹 **Business Intelligence** – Creating dashboards with **Power BI & Excel**  
-🔹 **Statistical Analysis** – Using **R** for data modeling  
-🔹 **Engineering & Sustainability** – Exploring **hydrogen as a clean energy source**  
-🔹 **Design & Prototyping** – Learning **SolidWorks & Figma**  
+🔹 **Data Analytics** – Cleaning, processing, and visualizing data using **Power BI, R, and Excel**  
+🔹 **Business Intelligence** – Developing interactive dashboards for insights and decision-making  
+🔹 **Statistical & Computational Analysis** – Leveraging **R, Python, and MATLAB** for data modeling and simulations  
+🔹 **Engineering & Sustainability** – Exploring **hydrogen as a clean energy source**, advocating for **renewable energy**, and addressing **climate change** through sustainable solutions  
+🔹 **Design & Prototyping** – Applying **MATLAB** for engineering computations and simulations, while learning **SolidWorks** for design.   
 
 
 ## 💻 **Tech Stack**  
