@@ -1,6 +1,6 @@
-# Hi, I'm Peter👋 
+## Hi there, my name is Peter👋 
 
-I'm a **Junior Data Analyst** passionate about **data-driven decision-making** and **sustainable energy solutions**. I enjoy transforming raw data into actionable insights using **Power BI, Excel, and R**. I'm also exploring **Python, SQL, MATLAB, and SolidWorks** to expand my analytical and engineering skills.  
+I'm a **Data Analyst** passionate about **data-driven decision-making** and **sustainable energy solutions**. I enjoy transforming raw data into actionable insights using **Power BI, Excel, and R**. I'm also exploring **Python, SQL, MATLAB, and SolidWorks** to expand my analytical and engineering skills.  
 
 
 ## 💡 **What I Do**  
