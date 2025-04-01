@@ -22,6 +22,3 @@ I'm a **Junior Data Analyst** passionate about **data-driven decision-making** a
 
 ## 📫 **How to Reach Me**  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/oluwagbemigaptr)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-oluwagbemiga)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwagbemigaptr@gmail.com)  
-
-
-⭐ **Feel free to explore my repositories and connect with me!** 🚀  
