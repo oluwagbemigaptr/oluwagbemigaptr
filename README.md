@@ -1,10 +1,10 @@
-## Hi there, my name is Peter👋 
+## Hi there, I'm Peter👋 
 
 I'm a **Data Analyst** passionate about **data-driven decision-making** and **sustainable energy solutions**. I enjoy transforming raw data into actionable insights using **Power BI, Excel, and R**. I'm also exploring **Python, SQL, MATLAB, and SolidWorks** to expand my analytical and engineering skills.  
 
 
 ## 💡 **What I Do**  
-🔹 **Data Analytics** – Cleaning, processing, and visualizing data using **Power BI, R, and Excel.**  
+🔹 **Data Analytics** – Cleaning, processing, analysis, and visualizing data using **Power BI, R, and Excel.**  
 🔹 **Business Intelligence** – Developing interactive dashboards for insights and decision-making.  
 🔹 **Statistical & Computational Analysis** – Leveraging **R, Python, and MATLAB** for data modeling and simulations.  
 🔹 **Sustainability** – Exploring **hydrogen as a clean energy source**, and **climate change** advocate through sustainable solutions.  
@@ -12,7 +12,7 @@ I'm a **Data Analyst** passionate about **data-driven decision-making** and **su
 
 
 ## 💻 **Tech Stack**  
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)    
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## 🚀 **Currently Exploring**  
